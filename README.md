@@ -1,6 +1,6 @@
 # Python-Design-Patterns
 
-# Gang of Four: Principles
+# Gang of Four: Principles <br>
 The Composition Over Inheritance Principle
 Problem: the subclass explosion
 Solution #1: The Adapter Pattern
