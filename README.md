@@ -31,3 +31,6 @@ especially useful when dealing with cross-platform apps, supporting multiple typ
 ### Composite 
 used for building tree structure i.e. interface components/graphs, each object of a tree is a part of the same class hierarchy
 
+### Decorator
+allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called decorators
+
