@@ -1,29 +1,13 @@
 # Python-Design-Patterns
 
-# Principles 
-The Adapter Pattern<br>
-The Bridge Pattern<br>
-The Decorator Pattern<br>
-
 # Python-Specific Patterns
+## Providing a centralized point of access for certain functionalities or resources, used in conjunction with Singleton ensures that only one instance of the object exists throughout the program lifecycles
 The Global Object Pattern<br>
-The Constant Pattern<br>
+## A powerful technique for offering callables at the top level of your module that share state through a common object
 The Prebound Method Pattern<br>
+## We use -1 instead of null i.e. if a.find(x) is -1: return 
 The Sentinel Object Pattern<br>
-The Null Pointer Pattern<br>
-The Null Object Pattern<br>
 
 # Creational Patterns
-The Abstract Factory Pattern<br>
-The Builder Pattern<br>
-The Factory Method Pattern<br>
-The Prototype Pattern
-The Singleton Pattern
-
-# Structural Patterns
-The Composite Pattern
-The Decorator Pattern
-The Flyweight Pattern
-
-# Behavioral Patterns
-The Iterator Pattern
+## Abstract Factory
+solves the problem of creating entire product families without specifying their concrete classes.<br>
