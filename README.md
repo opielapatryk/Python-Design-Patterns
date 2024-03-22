@@ -28,3 +28,6 @@ can be used to adopt some classes to work with different foreign objects
 ### Bridge
 especially useful when dealing with cross-platform apps, supporting multiple types of database servers or working with several API providers
 
+### Composite 
+used for building tree structure i.e. interface components/graphs, each object of a tree is a part of the same class hierarchy
+
