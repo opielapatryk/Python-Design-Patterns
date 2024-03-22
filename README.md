@@ -22,4 +22,9 @@ can be easily recognized by copy methods
 useful when you need to create an object with lots of possible configuration options i.e. "reports generator"
 
 ## Structural Patterns
-### 
+### Adapter
+can be used to adopt some classes to work with different foreign objects
+
+### Bridge
+especially useful when dealing with cross-platform apps, supporting multiple types of database servers or working with several API providers
+
