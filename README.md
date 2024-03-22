@@ -41,3 +41,20 @@ simple interface for a complex system of classes
 ### Mediator
 controller part of MVC pattern
 
+### Command
+converts requests or simple operations into objects, conversion allows deferred or remote execution of commands, storing command history, etc.
+
+### Chain of responsibility
+allows passing request along the chain of potential handlers until one of them handles request
+
+### Iterator
+allows sequential traversal through a complex data structure without exposing its internal details
+
+### Observer
+allows some objects to notify other objects about changes in their state
+
+### Strategy 
+turns a set of behaviors into objects and makes them interchangeable inside original context object
+
+### Visitor
+allows adding new behaviors to existing class hierarchy without altering any existing code
