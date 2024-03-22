@@ -36,3 +36,8 @@ allows adding new behaviors to objects dynamically by placing them inside specia
 
 ### Facade
 simple interface for a complex system of classes
+
+## Behavioral Patterns
+### Mediator
+controller part of MVC pattern
+
