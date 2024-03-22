@@ -34,3 +34,5 @@ used for building tree structure i.e. interface components/graphs, each object o
 ### Decorator
 allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called decorators
 
+### Facade
+simple interface for a complex system of classes
