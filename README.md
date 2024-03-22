@@ -19,5 +19,5 @@ better use Global Object Pattern
 can be easily recognized by copy methods
 
 ## Builder 
-useful when you need to create an object with lots of possible configuration options
+useful when you need to create an object with lots of possible configuration options i.e. "reports generator"
 
